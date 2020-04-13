@@ -1,0 +1,8 @@
+{
+  "ignore": ["node_modules", ".git", "src"],
+
+  "watch": [
+    "server"
+  ],
+  "ext": "coffee json"
+}
