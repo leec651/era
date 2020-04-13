@@ -1,5 +1,3 @@
-# Boilerplate for a MEVN+ project
-
 ## Setup
 Install and configure mongodb, the main data storage and also used as session storage. Consider using [mongod.conf](https://docs.mongodb.com/manual/reference/configuration-options/)
 ```
